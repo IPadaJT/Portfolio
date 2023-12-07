@@ -1,0 +1,3 @@
+[submodule "VGSales"]
+	path = VGSales
+	url = https://github.com/IPadaJT/VGSales.git
