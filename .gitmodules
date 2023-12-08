@@ -1,3 +1,6 @@
 [submodule "VGSales"]
 	path = VGSales
 	url = https://github.com/IPadaJT/VGSales.git
+[submodule "MusicInsights"]
+	path = MusicInsights
+	url = https://github.com/IPadaJT/MusicInsights.git
